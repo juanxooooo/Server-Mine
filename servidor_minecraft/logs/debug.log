@@ -8147,3 +8147,7 @@ Things may not work well.
 [26Feb2025 10:42:38.493] [Server thread/INFO] [tombstone/]: The player GalletasOreo has successfully been saved
 [26Feb2025 10:42:49.947] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GalletasOreo lost connection: Timed out
 [26Feb2025 10:42:49.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GalletasOreo left the game
+[26Feb2025 10:45:45.371] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Feb2025 10:45:45.382] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Feb2025 10:50:45.363] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Feb2025 10:50:45.372] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
